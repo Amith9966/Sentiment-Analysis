@@ -40,9 +40,9 @@ Choose an item from the above to work on and share into the front end data group
 
  
 
-Project Overview Document 
+**Project Overview Document **
 
-Project Title: Sentiment Analysis and Reporting on Email Data 
+**Project Title: Sentiment Analysis and Reporting on Email Data **
 
 1. Introduction This project aims to analyze email data stored in Vultr, process it using PostgreSQL, and conduct sentiment analysis to generate insights. The sentiment scores will be visualized and reported using Tableau. Git will be utilized for version control to maintain and track project progress. 
 
@@ -60,35 +60,35 @@ Version Control: Git (Repository management)
 
 3. Project Workflow 
 
-Data Extraction: 
+**Data Extraction: **
 
 Retrieve email data stored in Vultr. 
 
 Load the extracted data into PostgreSQL for processing. 
 
-Data Processing: 
+**Data Processing: **
 
 Clean and preprocess the email data. 
 
 Remove unnecessary data and format it for analysis. 
 
-Sentiment Analysis: 
+**Sentiment Analysis: **
 
 Generate sentiment scores (positive, neutral, negative) based on predefined criteria. 
 
-Data Visualization & Reporting: 
+**Data Visualization & Reporting: **
 
 Structure sentiment scores and analytical insights. 
 
 Develop interactive Tableau dashboards to present the findings. 
 
-Version Control & Collaboration: 
+**Version Control & Collaboration: **
 
 Use Git for repository management. 
 
 Track changes, collaborate, and maintain project versions efficiently. 
 
-4. Deliverables 
+**4. Deliverables **
 
 Structured Email Data: Stored in PostgreSQL after extraction and preprocessing. 
 
@@ -100,8 +100,8 @@ Git Repository: Maintained repository for version control and team collaboration
 
  
 
-5. Project Goals & Expected Outcomes 
-
+**5. Project Goals & Expected Outcomes 
+**
 Efficiently extract and store email data from Vultr to PostgreSQL. 
 
 Accurately analyze sentiment trends in email data. 
